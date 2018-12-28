@@ -1,0 +1,2 @@
+# okur
+yardımlar
